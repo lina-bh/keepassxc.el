@@ -1,0 +1,22 @@
+#+title: keepassxc.el
+
+* Introduction
+
+You must have =keepassxc-cli= on your =exec-path=.
+
+Set =keepassxc-database= to the path to your keepass database.
+
+- =keepassxc-password= :: insert at point a password for an entry from your database
+- =keepassxc-totp= :: copy an entry's TOTP 2FA code to the kill ring.
+
+
+* What's next
+
+- =auth-source.el= backend
+
+
+* Licence
+
+#+begin_example :weave LICENCE
+
+#+end_example
