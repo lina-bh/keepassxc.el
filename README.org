@@ -13,10 +13,3 @@ Set =keepassxc-database= to the path to your keepass database.
 * What's next
 
 - =auth-source.el= backend
-
-
-* Licence
-
-#+begin_example :weave LICENCE
-
-#+end_example
